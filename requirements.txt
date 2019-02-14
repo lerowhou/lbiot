@@ -1,1 +1,1 @@
-web: python lbiot.py
+web: python __init__.py
